@@ -7,3 +7,6 @@
 - 📖 Work: Circulation and Reference Assistant at my local public library. 
 - 💕 Outside of work and school I...: read, play video games, watch food competition television, hunt for trinkets, hang out with my cat, and take spin classes.
 
+##Topics of Interest
+-[Library Carpentry](https://github.com/topics/library-carpentry)
+-[Social Justice] (https://github.com/topics/social-justice)
