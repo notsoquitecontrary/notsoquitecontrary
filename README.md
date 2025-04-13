@@ -1,6 +1,4 @@
 ## Hi there! 👋
-
-<!--
 ## About me:
 - 🌸 Name: Mary
 - 😄 Pronouns: she/her, they/them.
@@ -8,4 +6,4 @@
 - 📚 Studying: Library and Information Science specializing in Users and Library Services. 
 - 📖 Work: Circulation and Reference Assistant at my local public library. 
 - 💕 Outside of work and school I...: read, play video games, watch food competition television, hunt for trinkets, hang out with my cat, and take spin classes.
--->
+
